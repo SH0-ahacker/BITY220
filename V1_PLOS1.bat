@@ -1,4 +1,4 @@
-ECHO:HAHAH
+ECHO:HAHAH      ;the "haha"
 cls
 start https://google.com.br
 ECHO:Hello!
